@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialeric&label=Profile%20views&color=0e75b6&style=flat" alt="officialeric" /> </p>
 
-- 🔭 I’m currently working on [FlowSpace](https://github.com/officialeric/project-diary)
+- 🔭 I’m currently working on [Departo](https://github.com/officialeric/departo)
 
 - 🌱 I’m currently learning **Laravel**
 
