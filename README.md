@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Alliance](https://github.com/officialeric/alliance)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **react , vue and php**
+- 💬 Ask me about **react , Node , Express , MongoDB and php**
 
 - 📫 How to reach me **officialeric994@gmail.com**
 
