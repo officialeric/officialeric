@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialeric&label=Profile%20views&color=0e75b6&style=flat" alt="officialeric" /> </p>
 
-- 🔭 I’m currently working on **EryPay**
+- 🔭 I’m currently working on **eChange**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Blockchain**
 
-- 💬 Ask me about **react , Node , Express , Mysql and php**
+- 💬 Ask me about **react/next/react-native , Node/Express and mysql**
 
 - 📫 How to reach me **officialeric994@gmail.com**
 
