@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Eric Ernest</h1>
-<h3 align="center">A passionate fullstack developer from Tanzania</h3>
+<h3 align="center">A passionate fullstack/Blockchain developer from Tanzania</h3>
 
 <img src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810" alt="officialeric" align="right" width="400"/> 
 
@@ -9,8 +9,10 @@
 - 🔭 I’m currently working on **eChange**
 
 - 🌱 I’m currently learning **Blockchain**
+  
+- 👌 I exploit **Solidity** to build **Smart Contracts**
 
-- 💬 Ask me about **react/next/react-native , Node/Express and mysql**
+- 💬 In Full-stack industry , Ask me about **react/next/react-native , Node/Express and mysql**
 
 - 📫 How to reach me **officialeric994@gmail.com**
 
